@@ -1,0 +1,9 @@
+I:\ETEC\SEMESTRE2\DS - Desenvolvimento de Software\JogoBaratinha\JogoBaratinha\bin\Debug\JogoBaratinha.exe.config
+I:\ETEC\SEMESTRE2\DS - Desenvolvimento de Software\JogoBaratinha\JogoBaratinha\bin\Debug\JogoBaratinha.exe
+I:\ETEC\SEMESTRE2\DS - Desenvolvimento de Software\JogoBaratinha\JogoBaratinha\bin\Debug\JogoBaratinha.pdb
+I:\ETEC\SEMESTRE2\DS - Desenvolvimento de Software\JogoBaratinha\JogoBaratinha\obj\Debug\JogoBaratinha.csprojResolveAssemblyReference.cache
+I:\ETEC\SEMESTRE2\DS - Desenvolvimento de Software\JogoBaratinha\JogoBaratinha\obj\Debug\JogoBaratinha.Form1.resources
+I:\ETEC\SEMESTRE2\DS - Desenvolvimento de Software\JogoBaratinha\JogoBaratinha\obj\Debug\JogoBaratinha.Properties.Resources.resources
+I:\ETEC\SEMESTRE2\DS - Desenvolvimento de Software\JogoBaratinha\JogoBaratinha\obj\Debug\JogoBaratinha.csproj.GenerateResource.Cache
+I:\ETEC\SEMESTRE2\DS - Desenvolvimento de Software\JogoBaratinha\JogoBaratinha\obj\Debug\JogoBaratinha.exe
+I:\ETEC\SEMESTRE2\DS - Desenvolvimento de Software\JogoBaratinha\JogoBaratinha\obj\Debug\JogoBaratinha.pdb
